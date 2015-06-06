@@ -3,7 +3,7 @@ namespace mynamespace;
 
 /**
  *
- * @author Damir
+ * @author test
  *        
  */
 class testclass
